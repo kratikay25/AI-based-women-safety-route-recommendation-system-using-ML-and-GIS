@@ -1,0 +1,17 @@
+Column,Data Type,Missing Values,Unique Values
+Road_ID,int64,0,24390
+u,int64,0,10160
+v,int64,0,10161
+name,str,18997,475
+highway,str,0,24
+oneway,bool,0,2
+length,float64,0,15200
+maxspeed,str,23698,13
+Latitude,float64,0,15528
+Longitude,float64,0,14404
+Crime_Index,int64,0,32
+Crime_Density,float64,0,33
+Total_Crimes,int64,0,31
+Crime_Distance_m,float64,0,16315
+Police_Distance_m,float64,0,16315
+Hospital_Distance_m,float64,0,16316
